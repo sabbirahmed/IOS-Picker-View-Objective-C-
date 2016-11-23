@@ -63,9 +63,6 @@
 				8C743B141DE44D1F0065C0BF /* ViewController.h */,
 				8C743B151DE44D1F0065C0BF /* ViewController.m */,
 				8C743B171DE44D1F0065C0BF /* Main.storyboard */,
-				8C743B1A1DE44D1F0065C0BF /* Assets.xcassets */,
-				8C743B1C1DE44D1F0065C0BF /* LaunchScreen.storyboard */,
-				8C743B1F1DE44D1F0065C0BF /* Info.plist */,
 				8C743B0E1DE44D1F0065C0BF /* Supporting Files */,
 			);
 			path = PickerView;
@@ -74,6 +71,9 @@
 		8C743B0E1DE44D1F0065C0BF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				8C743B1A1DE44D1F0065C0BF /* Assets.xcassets */,
+				8C743B1C1DE44D1F0065C0BF /* LaunchScreen.storyboard */,
+				8C743B1F1DE44D1F0065C0BF /* Info.plist */,
 				8C743B0F1DE44D1F0065C0BF /* main.m */,
 			);
 			name = "Supporting Files";
